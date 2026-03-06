@@ -1,0 +1,12 @@
+FrameWidgetClass RadialRoot {
+  size 0.50 0.50 halign center valign center
+  ImageWidgetClass Wheel {
+    size 0.50 0.50
+  }
+  ImageWidgetClass Highlight {
+    size 0.50 0.50
+  }
+  ImageWidgetClass CenterIcon {
+    size 0.15 0.15 halign center valign center
+  }
+}
