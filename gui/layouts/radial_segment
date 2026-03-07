@@ -1,0 +1,17 @@
+PanelWidget Segment
+{
+	size 1 1
+
+	ImageWidget Icon
+	{
+		size 0.6 0.6
+		align center center
+	}
+
+	TextWidget AmmoCount
+	{
+		size 1 0.3
+		align center bottom
+		text "0"
+	}
+}
