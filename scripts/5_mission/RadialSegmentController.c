@@ -14,7 +14,7 @@ class RadialSegmentController
 
 	root = parent.FindAnyWidget(name);
 
-	Widget segLayout = GetGame().GetWorkspace().CreateWidgets("RadialReloadV4/gui/radial_segment.layout",root);
+	Widget segLayout = GetGame().GetWorkspace().CreateWidgets("RadialReloadV4/gui/layouts/radial_segment.layout",root);
 
 	icon = ImageWidget.Cast(segLayout.FindAnyWidget("Icon"));
 	ammoText = TextWidget.Cast(segLayout.FindAnyWidget("AmmoCount"));
