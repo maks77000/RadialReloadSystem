@@ -15,7 +15,7 @@ class RadialReloadMenu : UIScriptedMenu
 
 	override Widget Init()
 	{
-		layoutRoot = GetGame().GetWorkspace().CreateWidgets("RadialReloadV4/gui/radial.layout");
+		layoutRoot = GetGame().GetWorkspace().CreateWidgets("RadialReloadV4/gui/layouts/radial_reload.layout");
 
 		PlayerBase player = PlayerBase.Cast(GetGame().GetPlayer());
 
