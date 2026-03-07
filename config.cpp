@@ -25,12 +25,12 @@ class CfgMods
 
             class worldScriptModule
             {
-                files[] = { "RadialReloadV4/scripts/4_world" };
+                files[] = { "RadialReloadV4/scripts/4_World" };
             };
 
             class missionScriptModule
             {
-                files[] = { "RadialReloadV4/scripts/5_mission" };
+                files[] = { "RadialReloadV4/scripts/5_Mission" };
             };
         };
     };
