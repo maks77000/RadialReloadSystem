@@ -1,0 +1,29 @@
+PanelWidgetClass Segment {
+	visible 1
+	ignorepointer 1
+	size 1 1
+	hexactpos 0
+	vexactpos 0
+	hexactsize 0
+	vexactsize 0
+	{
+	ImageWidgetClass Icon {
+			visible 1
+			size 0.6 0.6
+			position 0.2 0.1
+			halign center_ref
+			valign center_ref
+			ignorepointer 1
+		}
+		TextWidgetClass AmmoCount {
+			visible 1
+			size 1 0.3
+			position 0 0.7
+			text "0"
+			halign center_ref
+			valign center_ref
+			"exact text size" 16
+			ignorepointer 1
+		}
+	}
+}
