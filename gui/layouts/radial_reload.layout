@@ -1,59 +1,58 @@
 PanelWidget Root
 {
-	size 0.35 0.35
-	align center center
+	size 1 1
 
 	PanelWidget Background
 	{
 		size 1 1
-		color 0 0 0 120
+		color 0 0 0 0.35
 	}
 
 	PanelWidget Segment0
 	{
-		size 0.25 0.25
-		pos 0.375 0
+		size 0.22 0.22
+		pos 0.39 0.06
 	}
 
 	PanelWidget Segment1
 	{
-		size 0.25 0.25
-		pos 0.64 0.11
+		size 0.22 0.22
+		pos 0.62 0.16
 	}
 
 	PanelWidget Segment2
 	{
-		size 0.25 0.25
-		pos 0.75 0.375
+		size 0.22 0.22
+		pos 0.72 0.39
 	}
 
 	PanelWidget Segment3
 	{
-		size 0.25 0.25
-		pos 0.64 0.64
+		size 0.22 0.22
+		pos 0.62 0.62
 	}
 
 	PanelWidget Segment4
 	{
-		size 0.25 0.25
-		pos 0.375 0.75
+		size 0.22 0.22
+		pos 0.39 0.72
 	}
 
 	PanelWidget Segment5
 	{
-		size 0.25 0.25
-		pos 0.11 0.64
+		size 0.22 0.22
+		pos 0.16 0.62
 	}
 
 	PanelWidget Segment6
 	{
-		size 0.25 0.25
-		pos 0 0.375
+		size 0.22 0.22
+		pos 0.06 0.39
 	}
 
 	PanelWidget Segment7
 	{
-		size 0.25 0.25
-		pos 0.11 0.11
+		size 0.22 0.22
+		pos 0.16 0.16
 	}
 }
