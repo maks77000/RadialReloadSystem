@@ -18,7 +18,7 @@ PanelWidget Root
 	PanelWidget Segment1
 	{
 		size 0.25 0.25
-		pos 0.75 0.125
+		pos 0.64 0.11
 	}
 
 	PanelWidget Segment2
@@ -30,7 +30,7 @@ PanelWidget Root
 	PanelWidget Segment3
 	{
 		size 0.25 0.25
-		pos 0.75 0.75
+		pos 0.64 0.64
 	}
 
 	PanelWidget Segment4
@@ -42,7 +42,7 @@ PanelWidget Root
 	PanelWidget Segment5
 	{
 		size 0.25 0.25
-		pos 0 0.75
+		pos 0.11 0.64
 	}
 
 	PanelWidget Segment6
@@ -54,6 +54,6 @@ PanelWidget Root
 	PanelWidget Segment7
 	{
 		size 0.25 0.25
-		pos 0 0.125
+		pos 0.11 0.11
 	}
 }
